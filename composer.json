@@ -1,5 +1,5 @@
 {
-    "name": "davidhsianturi/laravel-compass",
+    "name": "MrAnassBaba/laravel-compass",
     "description": "An elegant REST assistent for the Laravel framework.",
     "keywords": [
         "laravel",
@@ -7,11 +7,11 @@
         "testing",
         "documentation"
     ],
-    "homepage": "https://github.com/davidhsianturi/laravel-compass",
+    "homepage": "https://github.com/MrAnassBaba/laravel-compass",
     "license": "MIT",
     "authors": [{
         "name": "David H. Sianturi",
-        "email": "davidhsianturi@gmail.com"
+        "email": "anass.baba.contact@gmail.com"
     }],
     "require": {
         "php": "^7.3|^8.0",
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Davidhsianturi\\Compass\\": "src/"
+            "MrAnassBaba\\Compass\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Davidhsianturi\\Compass\\Tests\\": "tests/"
+            "MrAnassBaba\\Compass\\Tests\\": "tests/"
         }
     },
     "extra": {
@@ -41,7 +41,7 @@
         },
         "laravel": {
             "providers": [
-                "Davidhsianturi\\Compass\\CompassServiceProvider"
+                "MrAnassBaba\\Compass\\CompassServiceProvider"
             ]
         }
     },
