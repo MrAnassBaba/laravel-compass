@@ -11,6 +11,9 @@
     "license": "MIT",
     "authors": [{
         "name": "David H. Sianturi",
+        "email": "davidhsianturi@gmail.com"
+        },{
+        "name": "Anass Baba",
         "email": "anass.baba.contact@gmail.com"
     }],
     "require": {
