@@ -1,6 +1,6 @@
 <?php
 
-namespace Davidhsianturi\Compass;
+namespace MrAnassBaba\Compass;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
